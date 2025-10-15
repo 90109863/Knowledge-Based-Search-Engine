@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+PyPDF2
+sentence-transformers
+torch
+transformers
+accelerate
+faiss-cpu

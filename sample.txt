@@ -1,0 +1,2 @@
+The objective of this project is to build a knowledge-base search engine using RAG.
+It supports PDF and text documents and answers user questions using LLM synthesis.
